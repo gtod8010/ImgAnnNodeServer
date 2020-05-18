@@ -1,0 +1,11 @@
+{
+    "data_root" : "/usr/src/data",
+    "server_host" : "http://10.0.0.107",
+    "db_info" : {
+        "connectionLimit" : 100,
+        "host"     : "172.17.0.2",
+        "user"     : "root",
+        "password" : "stryx123!",
+        "database" : "s_road_annotation2020"
+    }
+}
